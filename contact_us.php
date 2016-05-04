@@ -68,7 +68,7 @@
 										<input type="text" name="name" class="form-control">
 									</div>
 									<div class="form-group col-xs-12 col-sm-6">
-										<label for="email">Email<span>*</span></label>
+										<label for="email">Emails<span>*</span></label>
 										<input type="email" name="email" class="form-control">
 									</div>
 								</div>
