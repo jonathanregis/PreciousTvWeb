@@ -1,0 +1,1 @@
+<?php mysql_select_db('ptv',mysql_connect('localhost','root','')); ?>

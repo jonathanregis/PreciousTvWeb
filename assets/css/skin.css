@@ -1,0 +1,209 @@
+
+.slide-heading, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+ font-family:'Lato', sans-serif;
+}
+.sign-up .btn-theme, #footer .charity,.list-unstyled li:before,.video-section h2 ,.video-section .play-btn ,.quote-mark,.footer-logo a,
+.main-slider .banner-slider h2 strong,.main-slider .btn,.helping-child .btn-theme,.contact-address a[href^="mailto:"],.slider-third .tp-caption .btn.btn-default
+{
+	color: #fff;
+}
+.navbar-default, .panel-default > .panel-heading, .sign-up .btn-theme:hover, .sign-up .btn-theme:focus, .nav-tabs > li > a, .progress, .progress-value, .navbar-nav > li > .dropdown-menu,.btn-bg,.tp-bullets.simplebullets.round .bullet.selected,.testimonial-slider .flex-control-paging a.flex-active,.article-list .progress-bar, .article-list-large .progress-bar,.warning-icon-box,.btn-default:hover, .btn-default:focus,.modal-content button.close,.header-third .brand,.header-third .nav-content:before,.header-second .form-group ,.faq .collape-plus,.choose-pricing .btn-default.active,.btn-width:focus,.choose-pricing .btn-default:hover, .choose-pricing .btn-default.active,.helping-child .btn-theme:hover,.progress {
+	
+	
+	background:#1B214A;
+}
+.header-third .navbar-default{
+	background-image: linear-gradient(to bottom, #323026 0%, #323026 100%);
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+	background-color: #a69e97 !important;
+}
+.svg-shape path{
+	fill:#ecc731;
+}
+ .btn-default:hover, .btn-default:focus{
+border-color: #4d4641;
+}
+.navbar-default, .navbar-default .navbar-collapse, .navbar-default .navbar-form, .sign-up .btn-theme,.main-slider .btn {
+	border-color: #c4a62d;
+}
+blockquote {
+	border-left: 5px solid #ecc731;
+}
+.blockquote-reverse {
+	border-right: 5px solid #ecc731;
+}
+h1 strong, .h1 strong, h2 strong, .h2 strong, h3 strong, .h3 strong, h2 strong, .h2 strong, h4 strong, .h4 strong{
+	border-bottom-color:#ecc731;
+}
+.helping-child .btn-theme,.content-wrapper .faq-header  h2 strong,.choose-pricing .btn-default.active,.choose-pricing .btn-default:hover, .choose-pricing .btn-default.active ,.slider-third .tp-caption .btn.btn-default,.shop-today a.btn:hover,.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus ,.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus,.btn-default:hover{
+	border-color:#ecc731;
+}
+.navbar-nav > li > .dropdown-menu > ul > li > a {
+	border-bottom: 1px solid #fff;
+}
+.progress-value:before {
+	border-top: 4px solid #ecc731;
+}
+.progress-value:after{
+	border-top: 4px solid #ecc731;
+}
+.tp-bullets.simplebullets.round .bullet,.testimonial-slider .flex-control-paging a{
+	border: 2px solid #ecc731;
+}
+.navbar-nav > li > .dropdown-menu, .navbar-nav .open .dropdown-menu {
+	background: #1B214A;
+}
+.inner-page {
+	width: 70%;
+	float: left;
+}
+.title ul li{
+	display:inline-block;
+}
+.title h3,.title h4{
+	font-size: 1.2em;
+	font-family: 'Ropa Sans', sans-serif;
+	padding: 10px 0px 6px 0px;
+	color:rgb(155, 155, 155);
+}
+.title h4{
+	font-size:1em;
+}
+.title ul{
+	padding-bottom:10px;
+}
+.title ul li a{
+	color:rgb(155, 155, 155);
+	font-family: 'Ropa Sans', sans-serif;
+	font-size:0.9em;
+	padding: 0px 3px;
+}
+.title ul li img{
+	vertical-align:middle;
+	margin:0px 3px;
+}
+.title ul li a:hover{
+	color:rgb(30, 93, 173);
+}
+.view-links{
+	float:left;
+}
+.view-links ul li{
+	display:inline-block;
+}
+.views-count{
+	float:right;
+}
+.view-links h4,.views-count p{
+	color: rgb(155, 155, 155);
+	font-family: 'Ropa Sans', sans-serif;
+	font-size: 0.9em;
+}
+.views-count p span{
+	color:rgb(30, 93, 173);
+	font-size:1.5em;
+	text-transform:uppercase;
+}
+.view-links ul li img{
+	vertical-align: middle;
+	padding: 0 5px;
+}
+.view-links h4{
+	text-transform:uppercase;
+}
+.view-links ul{
+	float:left;
+}
+.comment1 li a{
+	color:#fff;
+	font-family: 'Ropa Sans', sans-serif;
+	font-size: 0.9em;
+}
+.comment1 li a:hover,.comment1 li a span{
+	color: rgb(155, 155, 155);
+}
+.comment1{
+	margin-left:15px;
+}
+.comment1 li:first-child{
+	background:#fff;
+	padding: 2px 5px;
+	background:rgb(30, 93, 173);
+	color:#fff;
+	border-radius: 0.3em;
+	margin-right: 10px;
+}
+.comment1 li a span:hover{
+	text-decoration:underline;
+}
+.video-details p,.video-details span{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	color: rgb(155, 155, 155);
+	line-height: 1.8em;
+}
+.video-details p{
+	padding:7px 0px;
+}
+.video-details ul{
+	padding:10px 0px;
+}
+.video-details p a{
+	color:rgb(30, 93, 173);
+	font-family: 'Ropa Sans', sans-serif;
+}
+.other-links li a,.tags li a{
+	font-size: 0.9em;
+	color: rgb(30, 93, 173);
+	font-family: 'Ropa Sans', sans-serif;
+}
+.other-links li{
+	padding:2px 0;
+}
+.other-links li a:hover,.tags li a:hover{
+	text-decoration:underline;
+}
+.tags ul li{
+	display:inline-block;
+}
+.tags h3{
+	color: rgb(155, 155, 155);
+	font-family: 'Ropa Sans', sans-serif;
+	font-size: 0.9em;
+	text-transform:uppercase;
+}
+.other-links ul li{
+	line-height:1.8em;
+}
+.related-videos h6{
+	font-size:1em;
+	font-family: 'Ropa Sans', sans-serif;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color:rgb(155, 155, 155);
+	padding: 15px 0px 10px 0px;
+	border-bottom: 1px dashed rgb(201, 201, 201);
+}
+.video-inner span{
+	position: absolute;
+	right: -10px;
+	bottom: 15px;
+	background: rgba(58, 58, 58, 0.61);
+	padding: 7px 20px;
+	font-family: 'Ropa Sans', sans-serif;
+	color: #fff;
+}
+.viwes {
+	padding: 11px 0px;
+}	
+.video-inner img{
+	background: #fff;
+	padding: 10px;
+	box-shadow: 0px 0px 10px rgb(228, 228, 228);
+}
+.video-inner{
+	position:relative;
+	width: 97.3%;
+}
+/*---categories----*/
